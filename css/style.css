@@ -1,0 +1,12 @@
+p {
+   color: teal;
+   background-color: yellow;
+   border: 2px green solid;
+   border-radius: 5px;
+}
+
+.logo {
+    background-image: url(../img/Logo.svg);
+    background-repeat: no-repeat;
+    
+}
